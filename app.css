@@ -8,4 +8,14 @@ body {
 
 .pagewrapper {
     display: flex;
+    height: 100vh;
+}
+
+.left {
+    width:75vw;
+}
+
+.right {
+    width: 25vw;
+    background-color: lightgray;
 }
